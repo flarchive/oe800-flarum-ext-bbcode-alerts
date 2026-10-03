@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of oe800/flarum-ext-bbcode-alerts.** Not for installation: use [Packagist](https://packagist.org/packages/oe800/flarum-ext-bbcode-alerts) or the [upstream repository](https://github.com/0E800/flarum-ext-bbcode-alerts).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**6** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.1.0) |
+| `0.1.2` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.1.2) |
+| `0.1.3` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.1.3) |
+| `0.1.5` | 2017-06-19 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.1.5) |
+| `0.1.6` | 2017-06-23 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.1.6) |
+| `0.2.0` | 2018-12-29 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/oe800-flarum-ext-bbcode-alerts/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/oe800-flarum-ext-bbcode-alerts.json](https://github.com/flarchive/archive-index/blob/main/packages/oe800-flarum-ext-bbcode-alerts.json)
 
